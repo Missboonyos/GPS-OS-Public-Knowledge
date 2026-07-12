@@ -7,6 +7,12 @@
 
 > Turning operational knowledge into reliable software.
 
+
+![Edition](https://img.shields.io/badge/Edition-v0.1-blue)
+![Status](https://img.shields.io/badge/Status-Foundation%20Complete-success)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
+
+
 *A practical operating system for building knowledge-driven products.*
 
 GPS OS is a practical methodology for transforming real-world operational knowledge into software products.
