@@ -8,7 +8,7 @@
 > Turning operational knowledge into reliable software.
 
 
-![![Edition](https://img.shields.io/badge/Edition-v0.1-blue)](https://github.com/YOUR-USERNAME/GPS-OS-Public-Knowledge/releases/tag/v0.1.0)
+[![Edition](https://img.shields.io/badge/Edition-v0.1-blue)](https://github.com/Missboonyos/GPS-OS-Public-Knowledge/releases/tag/v0.1.0)
 ![Status](https://img.shields.io/badge/Status-Foundation%20Complete-success)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
 
