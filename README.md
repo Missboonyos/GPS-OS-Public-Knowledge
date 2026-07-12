@@ -176,7 +176,7 @@ The method remains the same.
 
 ## License
 
-See [LICENSE](LICENSE).
+See [LICENSE.md](LICENSE.md)
 
 ## Edition
 
