@@ -1,0 +1,11 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>GPS OS badge</title>
+  <desc>Square GPS OS badge: the navy waypoint-loop mark centered above the wordmark "GPS OS" and the caption "operating system".</desc>
+  <g transform="translate(90,40) scale(1.15)">
+    <path d="M100,168 A68,68 0 1 1 134,158.89" fill="none" stroke="#1C2B49" stroke-width="7" stroke-linecap="round"/>
+    <polygon points="126.73,163.09 134.35,148.3 143.35,163.88" fill="#1C2B49"/>
+    <circle cx="100" cy="168" r="8.5" fill="#BB8C3E"/>
+  </g>
+  <text x="200" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="2" fill="#1C2B49">GPS<tspan fill="#BB8C3E"> OS</tspan></text>
+  <text x="200" y="330" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" letter-spacing="4" fill="#5B5A54">OPERATING SYSTEM</text>
+</svg>
