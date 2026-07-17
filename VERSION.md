@@ -1,4 +1,15 @@
-# GPS OS
+# GPS OS No.02
+
+**Current Edition:** v0.2
+
+**Status:** Canon established — restructuring in progress
+
+**Previous Edition:** v0.1 (Stable Foundation)
+
+**Next:** v0.3
+
+
+# GPS OS No.01
 
 ## Current Edition
 
