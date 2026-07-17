@@ -1,205 +1,66 @@
 # GPS OS
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/logo/gps-os-lockup-horizontal-reversed.svg">
-  <img src="assets/logo/gps-os-lockup-horizontal.svg" alt="GPS OS — Operating System for Transforming Operational Knowledge into Reliable Software" width="420">
-</picture>
+**Operating System for Transforming Operational Knowledge into Reliable Software**
 
-> Turning operational knowledge into reliable software.
-
-
-[![Edition](https://img.shields.io/badge/Edition-v0.1-blue)](https://github.com/Missboonyos/GPS-OS-Public-Knowledge/releases/tag/v0.1.0)
-![Status](https://img.shields.io/badge/Status-Foundation%20Complete-success)
-![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
-
-
-*A practical operating system for building knowledge-driven products.*
-
-GPS OS is a practical methodology for transforming real-world operational knowledge into software products.
-
-Rather than starting with technology, GPS OS starts by understanding how work actually happens, why problems occur, and how systems can support people more effectively.
-
-It combines operational thinking, workflow analysis, knowledge organization, and software engineering into a repeatable product development method.
+GPS OS was not created because we wanted to build software.
+It was created because we wanted to understand problems well enough to build software that truly helps people.
 
 ---
 
-## Why GPS OS?
+## What is GPS OS?
 
-Many software projects struggle not because of technology, but because they solve the wrong problem.
+GPS OS is a documented methodology — a "system of thinking" — for transforming real-world operational knowledge into reliable, well-architected software. It exists to answer one question:
 
-GPS OS was created from years of experience in operations, international trade, process improvement, and business systems design.
+> **How do we transform operational knowledge into reliable software?**
 
-Its purpose is simple:
+## Structure
 
-> **Understand reality first. Build software second.**
+| Part | Focus |
+| --- | --- |
+| I — Why | Origin story, mission, vision |
+| II — Thinking | Beliefs, principles, mindset, philosophy |
+| III — Method | Discovery → Workflow → Knowledge → Decision Design → Architecture → Security → Development → Validation → Continuous Improvement |
+| IV — Templates | README, Case Study, Architecture, Workflow, Knowledge Base, Security, Prompt |
+| V — Examples | Steel Compass, Tax GPS, future products |
 
----
+## Docs
 
-## Repository Structure
+GPS OS documentation is versioned. See `CHANGELOG.md` and `VERSION.md` for what changed between editions.
 
-```
-gps-os/
-├── README.md
-├── LICENSE
-├── CHANGELOG.md
-├── VERSION.md
-├── docs/
-│   ├── 00_READ_THIS_FIRST.md
-│   ├── 01_Why.md
-│   ├── 02_Core_Beliefs.md
-│   ├── 03_Principles.md
-│   ├── 04_Method.md
-│   ├── 05_Applications.md
-│   └── 06_Roadmap.md
-├── templates/
-│   ├── README_TEMPLATE.md
-│   ├── CASE_STUDY_TEMPLATE.md
-│   ├── PRODUCT_BLUEPRINT_TEMPLATE.md
-│   └── SYSTEM_ARCHITECTURE_TEMPLATE.md
-├── examples/
-│   ├── steel-compass/
-│   └── future-example.md
-├── resources/
-│   ├── glossary.md
-│   ├── faq.md
-│   ├── references.md
-│   ├── recommended-books.md
-│   ├── recommended-tools.md
-│   └── contributing.md
-└── assets/
-    ├── logo/
-    ├── diagrams/
-    └── images/
-```
+**v0.2 — current (Canon-based)**
 
----
+- [`docs/v0.2/00_CANON/GPS_CANON.md`](docs/v0.2/00_CANON/GPS_CANON.md)
+- [`docs/v0.2/00_CANON/ARCHITECTURE_RULES.md`](docs/v0.2/00_CANON/ARCHITECTURE_RULES.md)
+- [`docs/v0.2/01_LANGUAGE/`](docs/v0.2/01_LANGUAGE/)
+- [`docs/v0.2/02_MODELS/`](docs/v0.2/02_MODELS/)
+- [`docs/v0.2/03_REASONING_ENGINE/`](docs/v0.2/03_REASONING_ENGINE/)
+- [`docs/v0.2/04_KNOWLEDGE_ENGINE/`](docs/v0.2/04_KNOWLEDGE_ENGINE/)
+- [`docs/v0.2/05_METHOD/`](docs/v0.2/05_METHOD/)
+- [`docs/v0.2/06_APPLICATIONS/`](docs/v0.2/06_APPLICATIONS/)
+- [`docs/v0.2/07_RELEASES/`](docs/v0.2/07_RELEASES/)
 
-## Documentation
+**v0.1 — archived (Framework-based)**
 
-If you're new to GPS OS, start here:
+- [`docs/v0.1/00_READ_THIS_FIRST.md`](docs/v0.1/00_READ_THIS_FIRST.md)
+- [`docs/v0.1/01_Why.md`](docs/v0.1/01_Why.md)
+- [`docs/v0.1/02_Core_Beliefs.md`](docs/v0.1/02_Core_Beliefs.md)
+- [`docs/v0.1/03_Principles.md`](docs/v0.1/03_Principles.md)
+- [`docs/v0.1/04_Method.md`](docs/v0.1/04_Method.md)
+- [`docs/v0.1/05_Applications.md`](docs/v0.1/05_Applications.md)
+- [`docs/v0.1/06_Roadmap.md`](docs/v0.1/06_Roadmap.md)
 
-📖 **[00_READ_THIS_FIRST.md](docs/00_READ_THIS_FIRST.md)**
+## Templates
 
-Then continue in order:
+Reusable templates live in [`templates/`](templates/).
 
-1. [Why](docs/01_Why.md)
-2. [Core Beliefs](docs/02_Core_Beliefs.md)
-3. [Principles](docs/03_Principles.md)
-4. [Method](docs/04_Method.md)
-5. [Applications](docs/05_Applications.md)
-6. [Roadmap](docs/06_Roadmap.md)
+## Prompts
 
-Each document builds upon the previous one.
+The AI editor prompt library lives in [`prompts/`](prompts/) — the same rules every AI assistant should follow when writing or editing GPS OS documentation.
 
----
+## Examples
 
-## Core Philosophy
-
-GPS OS is built on a few simple beliefs.
-
-- Understand before building.
-- Improve systems, not just software.
-- Design for people.
-- Simplicity creates reliability.
-- Reality is the best specification.
-
-Technology is important. Understanding reality is more important.
-
----
-
-## Applications
-
-GPS OS has already been applied to real-world products.
-
-Current example:
-
-- Steel Compass
-
-Future applications include:
-
-- Tax GPS
-- Export Control Decision Support
-- Workflow Toolkits
-- Knowledge-driven software products
-
----
-
-## Project Status
-
-```
-GPS OS
-Edition:          v0.1
-Status:           ✅ Foundation Complete
-Current Focus:    Building the public knowledge base
-
-Next Editions:
-□ More case studies
-□ Templates
-□ GPS AI
-□ Community contributions
-□ Additional applications
-```
-
----
-
-## Who is this for?
-
-GPS OS is written for people who solve operational problems.
-
-Including:
-
-- Software Engineers
-- Product Managers
-- Startup Founders
-- Business Analysts
-- Domain Experts
-- Anyone who wants to transform practical knowledge into software
-
----
-
-## Guiding Principle
-
-> Keep the philosophy stable.
-> Improve the implementation continuously.
-
----
-
-## Closing
-
-GPS OS does not promise the perfect answer.
-
-It provides a better way to navigate uncertainty.
-
-If this repository helps someone understand a problem more clearly, design a simpler solution, or confidently take the next step, then it has already achieved its purpose.
-
-The destination may differ for each person.
-
-The method remains the same.
-
-**Keep moving forward.**
-
----
+Real applications of GPS OS live in [`examples/`](examples/) — currently Steel Compass and Tax GPS.
 
 ## License
 
-See [LICENSE.md](LICENSE.md)
-
-## Edition
-
-v0.1
-
-Released: July 2026
-
-Author: Kwanta Boonyos
-
-Status: Foundation Complete
-
-## Remark: This document is intentionally left as a template for future editions.
-- templates/
-- resources/
-- future-example.md
-
-- recommended-books.md
-- references.md
-- glossary.md
-- faq.md
+See [`LICENSE`](LICENSE).
