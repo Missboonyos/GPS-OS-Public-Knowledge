@@ -1,12 +1,25 @@
-# GPS OS No.02
+# Version
 
-**Current Edition:** v0.2
+Current Version
 
-**Status:** Canon established — restructuring in progress
+v0.2.0
 
-**Previous Edition:** v0.1 (Stable Foundation)
+Status
 
-**Next:** v0.3
+Core Foundation Complete
+
+Release Date
+
+July 2026
+
+Latest Release
+
+GPS OS Core Foundation v0.2
+
+Previous Editions
+
+- v0.1.0 — Foundation
+- v0.2.0 — Core Foundation
 
 
 # GPS OS No.01
