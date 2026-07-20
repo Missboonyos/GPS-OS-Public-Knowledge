@@ -1,23 +1,23 @@
-# Knowledge Engine
+# Method
 
 
 # Purpose
 
-The Knowledge Engine defines how GPS OS transforms validated operational knowledge into structured, reusable organizational assets.
+The Method layer defines how GPS OS applies its Canon, Language, Models, Reasoning Engine, and Knowledge Engine to transform operational understanding into reliable software.
 
-If the Reasoning Engine explains how humans and AI think consistently, the Knowledge Engine explains how validated knowledge is captured, organized, maintained, and reused across products, projects, and domains.
+While the previous layers establish how GPS OS thinks, this layer defines how GPS OS works.
 
-Its purpose is to ensure that knowledge continuously accumulates rather than being recreated from scratch.
+Its purpose is to provide a repeatable process that humans and AI can follow consistently across different products, domains, and technologies.
 
 ---
 
 # Why It Matters
 
-Operational knowledge is one of the most valuable assets of any organization.
+Reliable software is not produced by isolated activities.
 
-Without a structured knowledge system, valuable experience remains fragmented, difficult to discover, and impossible to reuse consistently.
+It emerges from a disciplined process that preserves operational reality, shared understanding, validated reasoning, and reusable knowledge throughout product development.
 
-The Knowledge Engine enables humans and AI to build upon validated knowledge rather than repeating the same reasoning process.
+The Method layer connects thinking to execution.
 
 ---
 
@@ -25,18 +25,17 @@ The Knowledge Engine enables humans and AI to build upon validated knowledge rat
 
 This layer defines:
 
-- Knowledge Object
-- Pattern Library
-- Case Library
-- Design Rules
+- GPS Method
+- Product Blueprint
+- Discovery Process
 
-Together, these components establish the reusable knowledge foundation of GPS OS.
+Together, these components establish the practical workflow for building knowledge-driven products with GPS OS.
 
 ---
 
 # Relationship to GPS Kernel
 
-The Knowledge Engine extends the GPS Kernel beyond implementation.
+The Method layer orchestrates the complete GPS Kernel.
 
 Reality
 
@@ -50,6 +49,14 @@ Decision
 
 ↓
 
+Architecture
+
+↓
+
+Specification
+
+↓
+
 Software
 
 ↓
@@ -60,4 +67,4 @@ Validation
 
 Knowledge
 
-The Knowledge Engine preserves validated knowledge so it can continuously improve future reasoning, future software, and future operational systems.
+Rather than introducing new concepts, the Method layer explains how these stages are applied as one coherent operational process.
