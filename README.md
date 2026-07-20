@@ -13,9 +13,9 @@
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
 
 
-*A practical operating system for building knowledge-driven products.*
+*A shared operational reasoning system for humans and AI.*
 
-GPS OS is a practical methodology for transforming real-world operational knowledge into software products.
+GPS OS is a shared operational reasoning system that provides a common language, models, reasoning framework, and methodology for transforming operational knowledge into reliable software.
 
 Rather than starting with technology, GPS OS starts by understanding how work actually happens, why problems occur, and how systems can support people more effectively.
 
