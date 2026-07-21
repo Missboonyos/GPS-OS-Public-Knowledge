@@ -2,11 +2,11 @@
 
 Current Version
 
-v0.2.0
+v0.3.0
 
 Status
 
-Core Foundation Complete
+Public Architecture Complete
 
 Release Date
 
@@ -14,11 +14,11 @@ July 2026
 
 Latest Release
 
-GPS OS Core Foundation v0.2
+GPS OS Public Architecture v0.3
 
 Previous Editions
 
-- v0.1.0 — Foundation
-- v0.2.0 — Core Foundation
+- v0.1.0 — GPS OS Foundation
+- v0.2.0 — GPS OS Core Foundation
 
 
