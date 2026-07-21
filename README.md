@@ -77,10 +77,12 @@ gps-os/
 │   ├── recommended-books.md
 │   ├── recommended-tools.md
 │   └── contributing.md
-└── assets/
-    ├── logo/
-    ├── diagrams/
-    └── images/
+├── assets/
+|   ├── logo/
+|   ├── diagrams/
+|   └── images/
+└── architecture/    
+    └── GPS_AI_ARCHITECTURE.md    
 ```
 
 ---
