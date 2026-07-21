@@ -81,8 +81,11 @@ gps-os/
 |   ├── logo/
 |   ├── diagrams/
 |   └── images/
-└── architecture/    
-    └── GPS_AI_ARCHITECTURE.md    
+└── architecture/ 
+    ├── GPS_AI_ARCHITECTURE.md      
+    ├── GPS_AI_REASONING_FLOW.md    
+    └── GPS_AI_COMPONENTS.md        
+
 ```
 
 ---
