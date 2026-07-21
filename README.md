@@ -8,8 +8,8 @@
 > Turning operational knowledge into reliable software.
 
 
-[![Edition](https://img.shields.io/badge/Edition-v0.2.0-blue)](https://github.com/Missboonyos/GPS-OS-Public-Knowledge/releases/tag/v0.2.0)
-![Status](https://img.shields.io/badge/Status-Core%20Foundation%20Complete-success)
+[![Edition](https://img.shields.io/badge/Edition-v0.3.0-blue)](https://github.com/Missboonyos/GPS-OS-Public-Knowledge/releases/tag/v0.3.0)
+![Status](https://img.shields.io/badge/Status-GPS%20AI%20Public%20Architecture%20Complete-success)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
 
 
@@ -44,7 +44,7 @@ gps-os/
 ├── CHANGELOG.md
 ├── VERSION.md
 ├── docs/
-|   ├── v0.1/
+│   ├── v0.1/
 │   │   ├── 00_READ_THIS_FIRST.md
 │   |   ├── 01_Why.md
 │   |   ├── 02_Core_Beliefs.md
@@ -52,14 +52,14 @@ gps-os/
 │   |   ├── 04_Method.md
 │   |   ├── 05_Applications.md
 │   |   └── 06_Roadmap.md
-|   └── v0.2/
+│   └── v0.2/
 │       ├── 00_CANON/
 │       ├── 01_LANGUAGE/
 │       ├── 02_MODELS/
 │       ├── 03_REASONING_ENGINE/
 │       ├── 04_KNOWLEDGE_ENGINE/
 │       ├── 05_METHOD/
-|       ├── 06_APPLICATIONS/
+│       ├── 06_APPLICATIONS/
 │       └── 07_RELEASES/
 ├── templates/
 │   ├── README_TEMPLATE.md
@@ -68,7 +68,7 @@ gps-os/
 │   └── SYSTEM_ARCHITECTURE_TEMPLATE.md
 ├── examples/
 │   ├── steel-compass/
-|   ├── tax-gps/
+│   ├── tax-gps/
 │   └── future-example.md
 ├── resources/
 │   ├── glossary.md
@@ -78,9 +78,9 @@ gps-os/
 │   ├── recommended-tools.md
 │   └── contributing.md
 ├── assets/
-|   ├── logo/
-|   ├── diagrams/
-|   └── images/
+│   ├── logo/
+│   ├── diagrams/
+│   └── images/
 └── architecture/ 
     ├── GPS_AI_ARCHITECTURE.md      
     ├── GPS_AI_REASONING_FLOW.md
@@ -93,20 +93,19 @@ gps-os/
 
 ## Documentation
 
-### Current Edition (v0.2)
+### GPS OS
 
-`docs/v0.2/`
+- `docs/v0.1/` — Foundation
+- `docs/v0.2/` — Core Foundation
 
-1. Canon
-2. Shared Language
-3. Models
-4. Reasoning Engine
-5. Knowledge Engine
-6. Method
-7. Applications
-8. Releases
+### GPS AI Public Architecture
 
-Previous editions are available in `docs/v0.1/`.
+The conceptual architecture of GPS AI is documented in `architecture/`.
+
+1. GPS AI Architecture
+2. GPS AI Reasoning Flow
+3. GPS AI Components
+4. GPS AI Collaboration Model
 
 ---
 
@@ -128,16 +127,26 @@ Technology is important. Understanding reality is more important.
 
 GPS OS has already been applied to real-world products.
 
-Current example:
+Current examples:
 
 - Steel Compass
-
-Future applications include:
-
 - Tax GPS
+
+Future applications:
+
 - Export Control Decision Support
 - Workflow Toolkits
 - Knowledge-driven software products
+
+---
+
+## Repository Scope
+
+This repository contains the public knowledge of GPS OS and the conceptual architecture of GPS AI.
+
+This repository is intended to document concepts rather than implementations.
+
+Implementation details, runtime architecture, prompts, memory systems, and agent designs are intentionally maintained in a separate private repository.
 
 ---
 
@@ -145,11 +154,12 @@ Future applications include:
 
 ```
 GPS OS
-Edition:          v0.2.0
-Status:           ✅ Core Foundation Complete
-Current Focus:    Applying GPS OS to real-world products
+Edition:          v0.3.0
+Status:           ✅ GPS AI Public Architecture Complete
+Current Focus:    Developing the GPS AI implementation (private repository)
 Repository:       Public Knowledge Base
-Documentation:    36 Markdown Documents
+Public Knowledge: Complete
+Next Phase:       Private GPS AI Implementation
 
 ```
 
@@ -199,11 +209,11 @@ See [LICENSE.md](LICENSE.md)
 
 ## Edition
 
-v0.2.0
+v0.3.0
 
 Released: July 2026
 
 Author: Kwanta Boonyos
 
-Status: Core Foundation Complete
+Status: Public Architecture Complete
 

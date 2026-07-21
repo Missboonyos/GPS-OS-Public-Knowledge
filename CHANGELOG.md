@@ -3,6 +3,22 @@
 All notable changes to GPS OS are documented in this file.
 
 ---
+## v0.3.0 — GPS AI Public Architecture
+
+Released: July 2026
+
+### Added
+
+- GPS AI Architecture
+- GPS AI Reasoning Flow
+- GPS AI Components
+- GPS AI Collaboration Model
+
+### Status
+
+Public Architecture Complete
+
+---
 
 ## v0.2.0 — Core Foundation
 
