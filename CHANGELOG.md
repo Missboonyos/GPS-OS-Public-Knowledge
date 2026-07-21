@@ -30,6 +30,21 @@ Core Foundation Complete
 
 ## v0.1.0 — Foundation
 
+Released: July 2026
+
+### Added
+
+- Origin Story
+- Core Beliefs
+- Principles
+- GPS Method
+- Applications
+- Roadmap
+
+### Status
+
+Foundation Complete
+
 ...
 
 ## v0.1
@@ -45,28 +60,5 @@ Initial public release
 
 ---
 
-## Next
-
-- Populate `docs/v0.2/01_LANGUAGE` through `docs/v0.2/07_RELEASES`
-
-
-# Changelog No.01
-
-## v0.1 — Initial Public Release
-
-- Why
-- Core Beliefs
-- Principles
-- Method
-- Applications
-- Roadmap
-
----
-
-## Next
-
-- More examples
-- Templates
-- Community
 
 

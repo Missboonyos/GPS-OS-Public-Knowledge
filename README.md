@@ -8,7 +8,7 @@
 > Turning operational knowledge into reliable software.
 
 
-[![Edition](https://img.shields.io/badge/Edition-v0.2.0-blue)](https://github.com/Missboonyos/GPS-OS-Public-Knowledge/releases/tag/v0.1.0)
+[![Edition](https://img.shields.io/badge/Edition-v0.2.0-blue)](https://github.com/Missboonyos/GPS-OS-Public-Knowledge/releases/tag/v0.2.0)
 ![Status](https://img.shields.io/badge/Status-Core%20Foundation%20Complete-success)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
 
@@ -44,13 +44,23 @@ gps-os/
 ├── CHANGELOG.md
 ├── VERSION.md
 ├── docs/
-│   ├── 00_READ_THIS_FIRST.md
-│   ├── 01_Why.md
-│   ├── 02_Core_Beliefs.md
-│   ├── 03_Principles.md
-│   ├── 04_Method.md
-│   ├── 05_Applications.md
-│   └── 06_Roadmap.md
+|   ├── v0.1/
+│   │   ├── 00_READ_THIS_FIRST.md
+│   |   ├── 01_Why.md
+│   |   ├── 02_Core_Beliefs.md
+│   |   ├── 03_Principles.md
+│   |   ├── 04_Method.md
+│   |   ├── 05_Applications.md
+│   |   └── 06_Roadmap.md
+|   └── v0.2/
+│       ├── 00_CANON/
+│       ├── 01_LANGUAGE/
+│       ├── 02_MODELS/
+│       ├── 03_REASONING_ENGINE/
+│       ├── 04_KNOWLEDGE_ENGINE/
+│       ├── 05_METHOD/
+|       ├── 06_APPLICATIONS/
+│       └── 07_RELEASES/
 ├── templates/
 │   ├── README_TEMPLATE.md
 │   ├── CASE_STUDY_TEMPLATE.md
@@ -58,6 +68,7 @@ gps-os/
 │   └── SYSTEM_ARCHITECTURE_TEMPLATE.md
 ├── examples/
 │   ├── steel-compass/
+|   ├── tax-gps/
 │   └── future-example.md
 ├── resources/
 │   ├── glossary.md
@@ -76,24 +87,24 @@ gps-os/
 
 ## Documentation
 
-If you're new to GPS OS, start here:
+### Current Edition (v0.2)
 
-📖 **[00_READ_THIS_FIRST.md](docs/00_READ_THIS_FIRST.md)**
+`docs/v0.2/`
 
-Then continue in order:
+1. Canon
+2. Shared Language
+3. Models
+4. Reasoning Engine
+5. Knowledge Engine
+6. Method
+7. Applications
+8. Releases
 
-1. [Why](docs/01_Why.md)
-2. [Core Beliefs](docs/02_Core_Beliefs.md)
-3. [Principles](docs/03_Principles.md)
-4. [Method](docs/04_Method.md)
-5. [Applications](docs/05_Applications.md)
-6. [Roadmap](docs/06_Roadmap.md)
-
-Each document builds upon the previous one.
+Previous editions are available in `docs/v0.1/`.
 
 ---
 
-## Core Philosophy
+## Guiding Principles
 
 GPS OS is built on a few simple beliefs.
 
@@ -128,16 +139,12 @@ Future applications include:
 
 ```
 GPS OS
-Edition:          v0.1
-Status:           ✅ Foundation Complete
-Current Focus:    Building the public knowledge base
+Edition:          v0.2.0
+Status:           ✅ Core Foundation Complete
+Current Focus:    Applying GPS OS to real-world products
+Repository:       Public Knowledge Base
+Documentation:    36 Markdown Documents
 
-Next Editions:
-□ More case studies
-□ Templates
-□ GPS AI
-□ Community contributions
-□ Additional applications
 ```
 
 ---
@@ -186,20 +193,11 @@ See [LICENSE.md](LICENSE.md)
 
 ## Edition
 
-v0.1
+v0.2.0
 
 Released: July 2026
 
 Author: Kwanta Boonyos
 
-Status: Foundation Complete
+Status: Core Foundation Complete
 
-## Remark: This document is intentionally left as a template for future editions.
-- templates/
-- resources/
-- future-example.md
-
-- recommended-books.md
-- references.md
-- glossary.md
-- faq.md
