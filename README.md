@@ -46,12 +46,12 @@ gps-os/
 ├── docs/
 │   ├── v0.1/
 │   │   ├── 00_READ_THIS_FIRST.md
-│   |   ├── 01_Why.md
-│   |   ├── 02_Core_Beliefs.md
-│   |   ├── 03_Principles.md
-│   |   ├── 04_Method.md
-│   |   ├── 05_Applications.md
-│   |   └── 06_Roadmap.md
+│   │   ├── 01_Why.md
+│   │   ├── 02_Core_Beliefs.md
+│   │   ├── 03_Principles.md
+│   │   ├── 04_Method.md
+│   │   ├── 05_Applications.md
+│   │   └── 06_Roadmap.md
 │   └── v0.2/
 │       ├── 00_CANON/
 │       ├── 01_LANGUAGE/
